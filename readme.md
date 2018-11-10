@@ -1,6 +1,6 @@
 It is an android application.
-It describes the simple use of JSon object to fetch the information from the internet .
-In this case we have the json object
+It describes the simple use of JSon data to fetch the information from the web .
+In this app we have the json data
 "https://itunes.apple.com/search?term=michael+jackson"
  and we fetch the information about MICHAEL JACKSON.
 
